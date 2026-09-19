@@ -1,0 +1,6 @@
+{
+  "name": "ImageFit",
+  "description": "Fast, privacy-focused in-browser image utility to resize, compress, crop, and convert images locally without server uploads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
